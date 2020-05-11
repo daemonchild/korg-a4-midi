@@ -1,6 +1,6 @@
 # Other Stuff
 .DS_Store
-idea/*
+.idea/*
 venv/*
 
 # Byte-compiled / optimized / DLL files
